@@ -1,0 +1,19 @@
+.contact{
+    display: flex;
+    border: 1px solid black;
+    gap: 10px;
+    justify-content: space-between;
+    background-color: gray;
+}
+
+.contact__name{
+    flex: 5;
+}
+
+.contact__phone{
+    flex: 1;
+}
+
+.contact__email{
+    flex: 1;
+}
